@@ -14,4 +14,12 @@ Sample of JsonPowerDB API for making work efficient, effective and faster.
    - JsonPowerDB stores data in a low-level, raw format that is also human-readable.
    - By utilizing JsonPowerDB, developers can code faster, which ultimately leads to a reduction in development costs.
 
- ![](/assets/Dashboard.png)
+ ![Dashboard](/assets/Dashboard.png)
+ 
+ ![New Enrollment](/assets/NewEnrollment.png)
+ 
+  ![Update](/assets/Update.png)
+  
+  ![Databse](/assets/Database.png)
+  
+  
