@@ -1,7 +1,7 @@
-# JBDPapi
+# JBDP API
 Sample of JsonPowerDB API for making work efficient, effective and faster.
 
-### The focus of this project is to cover the fundamentals of JsonPowerDB (JPDB), and to illustrate its usage through practical example.
+### *The focus of this project is to cover the fundamentals of JsonPowerDB (JPDB), and to illustrate its usage through practical example.*
 
 ## About JSONPOWER DB:
 
