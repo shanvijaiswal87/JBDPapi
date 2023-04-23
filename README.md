@@ -13,3 +13,5 @@ Sample of JsonPowerDB API for making work efficient, effective and faster.
    - Additionally, it is built on top of one of the fastest real-time data indexing engines, PowerIndeX. 
    - JsonPowerDB stores data in a low-level, raw format that is also human-readable.
    - By utilizing JsonPowerDB, developers can code faster, which ultimately leads to a reduction in development costs.
+
++ assets/Dashboard.png
